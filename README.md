@@ -7,6 +7,10 @@
 > 本仓库所有内容仅限用于学习交流
 ### [English](./README-en.md)    | 中文
 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新
+
+## CVE 索引与修复参考
+👉 [**CVE-INDEX.md**](./CVE-INDEX.md)：对本仓库现有条目的防御性元数据索引，汇总每个 CVE 的受影响组件/版本、CVSS 严重程度、修复/缓解建议与官方参考链接（数据来自 NVD），便于资产排查与加固。
+
 ## 优秀项目列表
 1. Fastjson RCE [https://github.com/dbgee/fastjson-rce](https://github.com/dbgee/fastjson-rce)
 2. Log4j RCE [https://github.com/dbgee/log4j2_rce](https://github.com/dbgee/log4j2_rce)
